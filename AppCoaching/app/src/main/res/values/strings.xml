@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppCoaching</string>
+    <string-array name="Cursos">
+        <item>Cursos</item>
+        <item>Análise e Desenvolvimento de Sistemas</item>
+        <item>Comércio Exterior</item>
+        <item>Gestão de Produção Industrial</item>
+        <item>Agronegócio</item>
+        <item>Gestão Ambiental</item>
+    </string-array>
+</resources>

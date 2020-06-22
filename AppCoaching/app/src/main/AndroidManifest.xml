@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.appcoaching">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.NoActionBar">
+        <activity android:name=".VizualizarDadosD"></activity>
+        <activity android:name=".VizualizarDadosC" />
+        <activity android:name=".VizualizarDadosB" />
+        <activity android:name=".VizualizarDadosA" />
+        <activity android:name=".Usuario" />
+        <activity android:name=".ResultadoD" />
+        <activity android:name=".TesteD" />
+        <activity android:name=".ResultadoC" />
+        <activity android:name=".TesteC" />
+        <activity android:name=".ResultadoA" />
+        <activity android:name=".TesteA" />
+        <activity android:name=".RelsutadoB" />
+        <activity android:name=".TesteB" />
+        <activity android:name=".TelaMenu" />
+        <activity android:name=".TelaCadastro" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

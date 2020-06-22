@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "496826612518",
+    "firebase_url": "https://appcoaching-f4c70.firebaseio.com",
+    "project_id": "appcoaching-f4c70",
+    "storage_bucket": "appcoaching-f4c70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496826612518:android:e478ecb26bc1ea04521fe7",
+        "android_client_info": {
+          "package_name": "com.example.appcoaching"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496826612518-2i1jp1fgjb4dhpq27387etk8ls7aivre.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.appcoaching",
+            "certificate_hash": "6d0b3be05bde32508e281949aa9f4c1aec9fed50"
+          }
+        },
+        {
+          "client_id": "496826612518-utppdhphgpv559cgmmh2vqpig6ds6nts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdpuTcJ_1zyRnG5aCarboNVewGihC0eUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496826612518-utppdhphgpv559cgmmh2vqpig6ds6nts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
